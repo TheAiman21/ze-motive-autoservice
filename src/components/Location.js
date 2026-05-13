@@ -17,7 +17,7 @@ const Location = () => {
           </div>
           <div className="info-row">
             <strong>🕐 Hours:</strong>
-            <p>Mon-Fri: 9AM-6PM | Sat: 9AM-3PM | Sun: Closed</p>
+            <p>Mon-Sat: 9AM-5PM | Sun: Closed</p>
           </div>
           <a
             href="https://maps.app.goo.gl/gjyNXiEiSW7v5DVi8"
