@@ -25,7 +25,7 @@ const Contact = () => {
         
         <div className="contact-details">
           <h3>Visit Our Workshop</h3>
-          <p className="contact-address">JKB h68 LOT 6147 KG PARIT LONDANG 86400 BATU PAHAT JOHOR</p>
+          <p className="contact-address">JKB 568 LOT 6147 KG PARIT LONDANG 86400 BATU PAHAT JOHOR</p>
           <div className="contact-hours">
             <p><strong>Operating Hours:</strong></p>
             <p>Monday - Saturday: 9:00 AM - 5:00 PM</p>
