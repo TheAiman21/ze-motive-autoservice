@@ -13,7 +13,7 @@ const Location = () => {
         <div className="location-details">
           <div className="info-row">
             <strong>📍 Address:</strong>
-            <p>No. 123, Jalan Utama, Parit Raja, 86400 Batu Pahat, Johor</p>
+            <p>JKB h68 LOT 6147 KG PARIT LONDANG 86400 BATU PAHAT JOHOR</p>
           </div>
           <div className="info-row">
             <strong>🕐 Hours:</strong>
