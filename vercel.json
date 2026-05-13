@@ -1,4 +1,4 @@
 {
-  "installCommand": "npm install --legacy-peer-deps",
-  "buildCommand": "CI=false npm run build"
+  "framework": "create-react-app",
+  "buildCommand": "chmod +x node_modules/.bin/react-scripts && npm run build"
 }
