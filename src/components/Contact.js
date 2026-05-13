@@ -7,14 +7,14 @@ const Contact = () => {
       <h2><span>Contact</span> Us</h2>
       <div className="contact-grid">
         <div className="contact-info">
-          <a href="tel:+6017705626" className="contact-item">
+          <a href="tel:+60177705626" className="contact-item">
             <span className="contact-icon">📞</span>
             <div>
               <strong>Phone</strong>
-              <p>+60 17-705 626</p>
+              <p>+60 17-770 5626</p>
             </div>
           </a>
-          <a href="https://wa.me/6017705626" target="_blank" rel="noopener noreferrer" className="contact-item">
+          <a href="https://wa.me/60177705626" target="_blank" rel="noopener noreferrer" className="contact-item">
             <span className="contact-icon">💬</span>
             <div>
               <strong>WhatsApp</strong>
@@ -32,7 +32,7 @@ const Contact = () => {
             <p>Sunday: Closed</p>
           </div>
         </div>
-      </div>
+      </div>git
     </section>
   );
 };
