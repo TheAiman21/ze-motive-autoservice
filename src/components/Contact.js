@@ -32,7 +32,7 @@ const Contact = () => {
             <p>Sunday: Closed</p>
           </div>
         </div>
-      </div>git
+      </div>
     </section>
   );
 };
